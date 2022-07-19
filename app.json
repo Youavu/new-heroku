@@ -1,14 +1,14 @@
 {
-    "name": "Heroku VPS 24/7 #RixEtte",
-    "description": "Deploy noVNC to Heroku.",
+    "name": "Heroku 24/7",
+    "description": "By ! H2O.",
     "keywords": [
-        "VNC",
-        "Docker",
-        "noVNC"
+        "Shitos",
+        "Fukos",
+        "Shitr"
     ],
     "env": {},
     "website": "",
-    "repository": "https://github.com/RixEtte/vps-heroku.git",
+    "repository": "https://github.com/Youavu/new-heroku",
     "logo": "https://raw.githubusercontent.com/RixEtte/vps-heroku/main/58480873cef1014c0b5e48ea.png",
     "stack": "container"
 }
